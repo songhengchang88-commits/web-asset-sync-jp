@@ -1,0 +1,5 @@
+name = "web-asset-sync-jp"
+main = "worker.js"
+compatibility_date = "2025-11-04"
+workers_dev = true
+keep_vars = true
